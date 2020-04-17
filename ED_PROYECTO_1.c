@@ -3,7 +3,7 @@ void main ()
 {
     int choice,r,l,w,b,h;
     float area;
-    while(choice != 4) {
+    while(choice != 7) {
       printf("1. Pantalla de presentación\n");
       printf("2. Cargada de las tres cadenas\n");
       printf("3. Impresión de las tres cadenas\n");
