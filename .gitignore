@@ -1,0 +1,10 @@
+.idea
+cmake-build-debug
+CMakeLists.txt
+ED3_P1.exe
+ED3_P1.o
+ED3_P2.exe
+ED3_P2.o
+ED3_P3.exe
+ED3_P3.o
+main.cpp
