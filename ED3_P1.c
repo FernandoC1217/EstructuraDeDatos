@@ -16,8 +16,8 @@ main()
   return 0;*/
 
   /*Parte dos del problema.*/
-  char nombre[10] = "sunombre"; //se puede modificar con tu nombre
-  char apellido[10] = "suapellido";
+  char nombre[] = "sunombre"; //se puede modificar con tu nombre
+  char apellido[] = "suapellido";
   char nombre_completo[50];
   int longitud;
  
